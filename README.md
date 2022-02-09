@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ibrahim Chahboune
 - 👀 I’m interested in Android and Web Developpement
-- 🌱 I’m currently learning  at the National school of applied science EL Jadida
+- 🌱 I’m currently studying at the National school of applied science EL Jadida
 <!-- - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... -->
 
