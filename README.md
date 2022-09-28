@@ -1,6 +1,6 @@
 ## Hi I'm Ibrahim <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 
-I'm Ibrahim Chahboune a Full Stack Web Developer. I love bringing ideas back to life using several technologies
+I'm Ibrahim Chahboune, a Full Stack Web Developer. I love bringing ideas back to life using several technologies
 
 :mailbox: Reach me out!
 
@@ -8,7 +8,7 @@ I'm Ibrahim Chahboune a Full Stack Web Developer. I love bringing ideas back to 
 
 <!-- TODO: Add last video link -->
 
-- 🔭 I’m currently studying at the national school of applied sciences
+- 🔭 I’m currently studying at the National School of Applied Sciences El Jadida
 - :computer: Most used line of code `git commit -m "first commit"`
 - 📫 How to reach me: ibrahimchahboune@gmail.com.
 - 😄 Pronouns: His, He, Ibrahim.
