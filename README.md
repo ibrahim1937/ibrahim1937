@@ -12,7 +12,7 @@ I'm Ibrahim Chahboune, a Full Stack Web Developer. I love bringing ideas back to
 - :computer: Most used line of code `git commit -m "first commit"`
 - 📫 How to reach me: ibrahimchahboune@gmail.com.
 - 😄 Pronouns: His, He, Ibrahim.
-- ⚡ Fun fact: I go to the GYM very often.
+- ⚡ Fun fact: I hit the GYM very often.
 
 #### Top Technologies
 
